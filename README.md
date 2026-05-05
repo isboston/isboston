@@ -1,27 +1,17 @@
 # Hi, I'm Vladimir 👋
 
-DevOps Engineer at ONLYOFFICE, focused on Linux packaging, Docker-based deployments, CI/CD pipelines, and installation tooling for production products.
+DevOps Engineer at **ONLYOFFICE**.
 
-## 🔧 What I work on
+I work on Linux packaging, Docker deployments, CI/CD automation, and installation tooling for production products.
 
-- Building and maintaining DEB/RPM packages for ONLYOFFICE products
-- Developing one-click installers for Linux environments
-- Improving Docker-based deployment flows
-- Supporting CI pipelines for package and installation testing
-- Working with Bash, Docker, GitHub Actions, NGINX, PostgreSQL, Redis, RabbitMQ, systemd
+## Focus areas
 
-## 🚀 Key projects
+- DEB/RPM packaging
+- One-click Linux installers
+- Docker deployment flows
+- CI/CD for installation and package testing
+- Bash automation, systemd, NGINX, PostgreSQL, Redis, RabbitMQ
 
-- **ONLYOFFICE Docker DocumentServer** — Docker deployment for ONLYOFFICE Document Server
-- **ONLYOFFICE OCI Docs** — installation automation for ONLYOFFICE Docs
-- **ONLYOFFICE DocSpace Buildtools** — build and packaging tooling for DocSpace
-- **Document Server Package** — Linux packages for ONLYOFFICE Document Server
+## Tech stack
 
-## 🛠 Tech stack
-
-Linux · Bash · Docker · GitHub Actions · DEB/RPM · systemd · NGINX · PostgreSQL · Redis · RabbitMQ · CI/CD
-
-## 📫 Contact
-
-- GitHub: @isboston
-- Company: ONLYOFFICE
+`Linux` · `Bash` · `Docker` · `GitHub Actions` · `DEB/RPM` · `CI/CD` · `systemd`
