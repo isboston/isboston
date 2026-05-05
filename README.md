@@ -13,7 +13,7 @@ DevOps Engineer at ONLYOFFICE, focused on Linux packaging, Docker-based deployme
 ## 🚀 Key projects
 
 - **ONLYOFFICE Docker DocumentServer** — Docker deployment for ONLYOFFICE Document Server
-- **ONLYOFFICE OCI Docs* — installation automation for ONLYOFFICE Docs
+- **ONLYOFFICE OCI Docs** — installation automation for ONLYOFFICE Docs
 - **ONLYOFFICE DocSpace Buildtools** — build and packaging tooling for DocSpace
 - **Document Server Package** — Linux packages for ONLYOFFICE Document Server
 
