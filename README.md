@@ -1,6 +1,4 @@
-# Hi, I'm Vladimir 👋
-
-DevOps Engineer at **ONLYOFFICE**.
+DevOps Engineer @ONLYOFFICE
 
 I work on Linux packaging, Docker deployments, CI/CD automation, and installation tooling for production products.
 
