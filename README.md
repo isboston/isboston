@@ -1,4 +1,4 @@
-## DevOps Engineer @ ONLYOFFICE
+## DevOps Engineer
 
 Focused on Linux infrastructure, CI/CD, software packaging, and deployment automation.
 
